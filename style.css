@@ -18,18 +18,21 @@ body {
     height: 500px;
 }
 
+/* Upper Part */
 .header {
     background-color: #FF9999;
     border: 1px solid black;
     height: 190px;
 }
 
+/* Lower Part */
 .lower {
     border: 1px solid black;
     height: 310px;
     display: flex;
 }
 
+/* image */
 .main {
     background-image: url(main.PNG);
     background-size: 558px;
@@ -38,6 +41,7 @@ body {
     border: 10px solid yellow;
 }
 
+/* About me */
 .right {
     background-color: #ECECFB;
     text-align: center;
